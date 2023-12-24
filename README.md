@@ -8,7 +8,7 @@ Step into a realm where innovation meets style, and performance merges seamlessl
 
 ## Live Demonstration
 
-The nike shoes demo can be [viewed online here](https://thoughtflix.vercel.app/)
+The nike shoes demo can be [viewed online here](https://nikeshoes-ashen.vercel.app/)
 
 Here are screenshots that show the demo application in use.
 
