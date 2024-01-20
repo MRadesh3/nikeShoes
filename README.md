@@ -48,4 +48,4 @@ Let's build something amazing together !
 
 ## Feedback
 
-If you have any feedback, please reach out to us at shopinggocustomers@gmail.com
+If you have any feedback, please reach out to us at adeshsalsundar1713@gmail.com
